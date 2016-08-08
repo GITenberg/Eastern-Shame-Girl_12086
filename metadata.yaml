@@ -1,0 +1,36 @@
+_repo: Eastern-Shame-Girl_12086
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Soulié de Morant, G. (Georges)
+    aliases:
+    - Soulié, Georges
+    - Morant, G. Soulié de (Georges Soulié)
+    - Morant, Georges Soulié de
+    - De Morant, G. Soulié (Georges Soulié)
+    - Soulie de Morant, G. (Georges)
+    - Soulié, Charles Georges
+    birthdate: 1878
+    deathdate: 1955
+    gutenberg_agent_id: '4219'
+    url: http://www.gutenberg.org/2009/agents/4219
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories, Chinese -- Translations into English'
+- !lcsh 'China -- Social life and customs -- Fiction'
+- !lcsh 'Chinese literature -- Translations into English'
+- !lcc 'PL'
+- GITenberg
+tableOfContents: Eastern shame girl -- The wedding of Ya-nei -- A strange destiny
+  -- The error of the embroidered slipper -- The counterfeit old woman -- The monestery
+  of the esteemed-lotus -- A complicated marriage.
+title: Eastern Shame Girl
+url: http://www.gutenberg.org/ebooks/12086
