@@ -1,5 +1,5 @@
 _repo: Eastern-Shame-Girl_12086
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Soulié de Morant, G. (Georges)
@@ -14,7 +14,12 @@ contributor:
     deathdate: 1955
     gutenberg_agent_id: '4219'
     url: http://www.gutenberg.org/2009/agents/4219
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12086#Eastern-Shame-Girl
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
